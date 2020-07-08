@@ -8,3 +8,4 @@ A task manager API built using Node.js and Mongoose with several features
 6. Different URL Query parameters during fetching tasks and many more
 
 testing and run the API on postman using https://pkmryh-task-manager.herokuapp.com/
+![https://badgen.net/npm/v/express]

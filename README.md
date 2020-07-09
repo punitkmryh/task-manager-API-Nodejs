@@ -7,7 +7,7 @@ A task manager API built using Node.js and Mongoose with several features
 5. Updating and Deleting User,
 6. Different URL Query parameters during fetching tasks and many more
 
-testing and run the API on postman using
+Test and run the API on postman
 
 ![forthebadge](https://badgen.net/npm/v/express)
 

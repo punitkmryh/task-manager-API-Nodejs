@@ -9,8 +9,18 @@ A task manager API built using Node.js and Mongoose with several features
 
 testing and run the API on postman using
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://pkmryh-task-manager.herokuapp.com)
 ![forthebadge](https://badgen.net/npm/v/express)
-
+Clone the repository
+```
+https://github.com/punitkmryh/task-manager-API-Nodejs
+```
+To install the dependencies, simply write
+```
+npm install
+```
+To run the app, simply write
+```
+npm run dev
+```
 ##### Made with ♥ by <a href="https://github.com/punitkmryh">punitDev</a>
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/punitkmryh)

@@ -178,9 +178,9 @@ app.listen(port, () => {
 
 //// Experimenting User relation with task
 //#region  FIXME:
-const Task = require("./models/task");
+// const Task = require("./models/task");
 
-const main = async () => {
+// const main = async () => {
   //#region TODO: Finding Owner/user using Task model
   // const task = await Task.findById("5efce509d7eb1b40b6cbebf5");
   // // populate
@@ -194,5 +194,5 @@ const main = async () => {
   //#endregion
 };
 
-main();
+// main();
 //#endregion
